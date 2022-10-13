@@ -16,9 +16,9 @@
     * [Directory Enumeration](programming/python/python-for-cybersecurity/directory-enumeration.md)
     * [subdomains Enumeration](programming/python/python-for-cybersecurity/subdomains-enumeration.md)
 
-## 🐐 WebGoat - Exploit & Mitigate
+## 🐐 Web Pentesting :  Exploit & Mitigate
 
-* [(A3) Injections](webgoat-exploit-and-mitigate/a3-injections/README.md)
-  * [Cross Site Script](webgoat-exploit-and-mitigate/a3-injections/cross-site-script/README.md)
-    * [Exploit](webgoat-exploit-and-mitigate/a3-injections/cross-site-script/exploit.md)
-    * [Mitigation](webgoat-exploit-and-mitigate/a3-injections/cross-site-script/mitigation.md)
+* [(A3) Injections](web-pentesting-exploit-and-mitigate/a3-injections/README.md)
+  * [Cross Site Script](web-pentesting-exploit-and-mitigate/a3-injections/cross-site-script/README.md)
+    * [Exploit](web-pentesting-exploit-and-mitigate/a3-injections/cross-site-script/exploit.md)
+    * [Mitigation](web-pentesting-exploit-and-mitigate/a3-injections/cross-site-script/mitigation.md)
