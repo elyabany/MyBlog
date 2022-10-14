@@ -15,6 +15,11 @@
   * [Python for CyberSecurity](programming/python/python-for-cybersecurity/README.md)
     * [Directory Enumeration](programming/python/python-for-cybersecurity/directory-enumeration.md)
     * [subdomains Enumeration](programming/python/python-for-cybersecurity/subdomains-enumeration.md)
+* [Code War](programming/code-war/README.md)
+  * [Function 1 - hello world](programming/code-war/function-1-hello-world.md)
+  * [MakeUpperCase](programming/code-war/makeuppercase.md)
+  * [String repeat](programming/code-war/string-repeat.md)
+  * [Abbreviate a Two Word Name](programming/code-war/abbreviate-a-two-word-name.md)
 
 ## 🕸 Web Pentesting :  Exploit & Mitigate
 
