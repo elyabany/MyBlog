@@ -20,6 +20,8 @@
   * [MakeUpperCase](programming/code-war/makeuppercase.md)
   * [String repeat](programming/code-war/string-repeat.md)
   * [Abbreviate a Two Word Name](programming/code-war/abbreviate-a-two-word-name.md)
+  * [Invert values](programming/code-war/invert-values.md)
+  * [L1: Set Alarm](programming/code-war/l1-set-alarm.md)
 
 ## 🕸 Web Pentesting :  Exploit & Mitigate
 
