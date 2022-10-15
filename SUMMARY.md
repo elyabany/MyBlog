@@ -6,6 +6,9 @@
 
 ## CTF writups&#x20;
 
+* [🧟♂ HackTheBox](ctf-writups/hackthebox/README.md)
+  * [Starting Points](ctf-writups/hackthebox/starting-points/README.md)
+    * [Redeemer](ctf-writups/hackthebox/starting-points/redeemer.md)
 * [☠ TryHackMe](ctf-writups/tryhackme/README.md)
   * [THM : Alferd](ctf-writups/tryhackme/thm-alferd.md)
 
@@ -15,13 +18,13 @@
   * [Python for CyberSecurity](programming/python/python-for-cybersecurity/README.md)
     * [Directory Enumeration](programming/python/python-for-cybersecurity/directory-enumeration.md)
     * [subdomains Enumeration](programming/python/python-for-cybersecurity/subdomains-enumeration.md)
-* [Code War](programming/code-war/README.md)
-  * [Function 1 - hello world](programming/code-war/function-1-hello-world.md)
-  * [MakeUpperCase](programming/code-war/makeuppercase.md)
-  * [String repeat](programming/code-war/string-repeat.md)
-  * [Abbreviate a Two Word Name](programming/code-war/abbreviate-a-two-word-name.md)
-  * [Invert values](programming/code-war/invert-values.md)
-  * [L1: Set Alarm](programming/code-war/l1-set-alarm.md)
+  * [Code War](programming/python/code-war/README.md)
+    * [Function 1 - hello world](programming/python/code-war/function-1-hello-world.md)
+    * [MakeUpperCase](programming/python/code-war/makeuppercase.md)
+    * [String repeat](programming/python/code-war/string-repeat.md)
+    * [Abbreviate a Two Word Name](programming/python/code-war/abbreviate-a-two-word-name.md)
+    * [Invert values](programming/python/code-war/invert-values.md)
+    * [L1: Set Alarm](programming/python/code-war/l1-set-alarm.md)
 
 ## 🕸 Web Pentesting :  Exploit & Mitigate
 
