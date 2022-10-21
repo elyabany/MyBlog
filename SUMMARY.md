@@ -10,6 +10,7 @@
   * [Starting Points](ctf-writups/hackthebox/starting-points/README.md)
     * [Redeemer](ctf-writups/hackthebox/starting-points/redeemer.md)
 * [☠ TryHackMe](ctf-writups/tryhackme/README.md)
+  * [THM : Surfer](ctf-writups/tryhackme/thm-surfer.md)
   * [THM : Alferd](ctf-writups/tryhackme/thm-alferd.md)
 
 ## Programming
@@ -28,11 +29,11 @@
 
 ## OWASP
 
-* [Web](owasp/web/README.md)
-  * [Injections](owasp/web/injections.md)
-  * [Cross Site Script](owasp/web/cross-site-script/README.md)
-    * [Exploit](owasp/web/cross-site-script/exploit.md)
-    * [Mitigation](owasp/web/cross-site-script/mitigation.md)
+* [Web](owasp/web.md)
+  * [Injections](webgoat-exploit-and-mitigate/a3-injections/README.md)
+  * [Cross Site Script](webgoat-exploit-and-mitigate/a3-injections/cross-site-script/README.md)
+    * [Exploit](webgoat-exploit-and-mitigate/a3-injections/cross-site-script/exploit.md)
+    * [Mitigation](webgoat-exploit-and-mitigate/a3-injections/cross-site-script/mitigation.md)
 
 ## 👽 penetration test
 

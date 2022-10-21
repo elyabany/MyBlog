@@ -1,6 +1,6 @@
 # L1: Set Alarm
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Solution -> 1&#x20;
 
