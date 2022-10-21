@@ -26,16 +26,15 @@
     * [Invert values](programming/python/code-war/invert-values.md)
     * [L1: Set Alarm](programming/python/code-war/l1-set-alarm.md)
 
-## 🕸 Web Pentesting :  Exploit & Mitigate
-
-* [(A3) Injections](webgoat-exploit-and-mitigate/a3-injections/README.md)
-  * [Cross Site Script](webgoat-exploit-and-mitigate/a3-injections/cross-site-script/README.md)
-    * [Exploit](webgoat-exploit-and-mitigate/a3-injections/cross-site-script/exploit.md)
-    * [Mitigation](webgoat-exploit-and-mitigate/a3-injections/cross-site-script/mitigation.md)
-
 ## OWASP
 
-* [Web](owasp/web.md)
-* [Mobile](owasp/mobile.md)
-* [API](owasp/api.md)
-* [Source Code Review](owasp/source-code-review.md)
+* [Web](owasp/web/README.md)
+  * [Injections](owasp/web/injections.md)
+  * [Cross Site Script](owasp/web/cross-site-script/README.md)
+    * [Exploit](owasp/web/cross-site-script/exploit.md)
+    * [Mitigation](owasp/web/cross-site-script/mitigation.md)
+
+## 👽 penetration test
+
+* [External Pentest](penetration-test/external-pentest.md)
+* [Internal Pentest](penetration-test/internal-pentest.md)
