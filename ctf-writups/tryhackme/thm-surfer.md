@@ -42,7 +42,7 @@ after looking around for a bit I found&#x20;
 
 I intercept the request with Burp&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 **Forward the request**&#x20;
 
@@ -52,7 +52,7 @@ I intercept the request with Burp&#x20;
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 in the **Recent Activity** section in the web page we found a <mark style="color:green;">**/internal/admin.php**</mark>  &#x20;
 
@@ -60,7 +60,7 @@ let's try to read this page with **SSRF** by chainging the **url =** [http://127
 
 **url=** [http://127.0.0.1/internal/admin.php](http://127.0.0.1/internal/admin.php)&#x20;
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>SEND </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>SEND </p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
