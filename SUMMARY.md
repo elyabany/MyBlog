@@ -21,6 +21,7 @@
     * [Directory Enumeration](programming/python/python-for-cybersecurity/directory-enumeration.md)
     * [subdomains Enumeration](programming/python/python-for-cybersecurity/subdomains-enumeration.md)
   * [Code War](programming/python/code-war/README.md)
+    * [Square(n) Sum](programming/python/code-war/square-n-sum.md)
     * [Function 1 - hello world](programming/python/code-war/function-1-hello-world.md)
     * [MakeUpperCase](programming/python/code-war/makeuppercase.md)
     * [String repeat](programming/python/code-war/string-repeat.md)
