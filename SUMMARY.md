@@ -20,14 +20,14 @@
   * [Python for CyberSecurity](programming/python/python-for-cybersecurity/README.md)
     * [Directory Enumeration](programming/python/python-for-cybersecurity/directory-enumeration.md)
     * [subdomains Enumeration](programming/python/python-for-cybersecurity/subdomains-enumeration.md)
-  * [Code War](programming/python/code-war/README.md)
-    * [Square(n) Sum](programming/python/code-war/square-n-sum.md)
-    * [Function 1 - hello world](programming/python/code-war/function-1-hello-world.md)
-    * [MakeUpperCase](programming/python/code-war/makeuppercase.md)
-    * [String repeat](programming/python/code-war/string-repeat.md)
-    * [Abbreviate a Two Word Name](programming/python/code-war/abbreviate-a-two-word-name.md)
-    * [Invert values](programming/python/code-war/invert-values.md)
-    * [L1: Set Alarm](programming/python/code-war/l1-set-alarm.md)
+  * [Code challenges](programming/python/code-challenges/README.md)
+    * [Square(n) Sum](programming/python/code-challenges/square-n-sum.md)
+    * [Function 1 - hello world](programming/python/code-challenges/function-1-hello-world.md)
+    * [MakeUpperCase](programming/python/code-challenges/makeuppercase.md)
+    * [String repeat](programming/python/code-challenges/string-repeat.md)
+    * [Abbreviate a Two Word Name](programming/python/code-challenges/abbreviate-a-two-word-name.md)
+    * [Invert values](programming/python/code-challenges/invert-values.md)
+    * [L1: Set Alarm](programming/python/code-challenges/l1-set-alarm.md)
 
 ## OWASP
 
