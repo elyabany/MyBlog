@@ -28,6 +28,7 @@
     * [Abbreviate a Two Word Name](programming/python/code-challenges/abbreviate-a-two-word-name.md)
     * [Invert values](programming/python/code-challenges/invert-values.md)
     * [L1: Set Alarm](programming/python/code-challenges/l1-set-alarm.md)
+    * [Quarter of the year](programming/python/code-challenges/quarter-of-the-year.md)
 
 ## OWASP
 
