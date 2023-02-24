@@ -1,13 +1,12 @@
-CYberSecurity & CTF Blog 
-
 # Table of contents
+---
 
 * [💀 Information Security](<README (1).md>)
   * [Qradar - Simple installation steps](information-security/qradar-part-1.md)
   * [Qradar - Full installation steps ](information-security/Qradar-Full-install.md)
   * [Qradar - Health Check](information-security/Qradar-Part2.md)
 
-## CTF writups&#x20;
+# CTF writups&#x20;
 
 * [🧟♂ HackTheBox](ctf-writups/hackthebox/README.md)
   * [Starting Points](ctf-writups/hackthebox/starting-points/README.md)
@@ -19,13 +18,13 @@ CYberSecurity & CTF Blog
   * [THM : Alferd](ctf-writups/tryhackme/thm-alferd.md)
   * [THM: RazorBlack](ctf-writups/tryhackme/razorblack.md)
 
-## Programming
+# Programming
 
 * [🐍 Python](programming/python/README.md)
   * [Python for CyberSecurity](programming/python/python-for-cybersecurity/README.md)
     * [Directory Enumeration](programming/python/python-for-cybersecurity/directory-enumeration.md)
     * [subdomains Enumeration](programming/python/python-for-cybersecurity/subdomains-enumeration.md)
-  * [Code challenges](programming/python/code-challenges/README.md)
+  * :page_with_curl: [Code challenges](programming/python/code-challenges/README.md)
     * [Even or Odd](programming/python/code-challenges/even-or-odd.md)
     * [Square(n) Sum](programming/python/code-challenges/square-n-sum.md)
     * [Function 1 - hello world](programming/python/code-challenges/function-1-hello-world.md)
@@ -36,7 +35,7 @@ CYberSecurity & CTF Blog
     * [L1: Set Alarm](programming/python/code-challenges/l1-set-alarm.md)
     * [Quarter of the year](programming/python/code-challenges/quarter-of-the-year.md)
 
-## OWASP
+# :closed_lock_with_key: OWASP web 
 
 * [Web](owasp/web.md)
   * [Injections](webgoat-exploit-and-mitigate/a3-injections/README.md)
@@ -44,7 +43,7 @@ CYberSecurity & CTF Blog
     * [Exploit](webgoat-exploit-and-mitigate/a3-injections/cross-site-script/exploit.md)
     * [Mitigation](webgoat-exploit-and-mitigate/a3-injections/cross-site-script/mitigation.md)
 
-## 👽 penetration test
+# 👽 penetration test
 
 * [External Pentest](penetration-test/external-pentest.md)
 * [Internal Pentest](penetration-test/internal-pentest.md)
