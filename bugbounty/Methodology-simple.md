@@ -13,26 +13,26 @@
         - OTP
     5. What Objects are used?
     6. How is session established?
-    ~ Cookie?
-    ~ Bearer Token?
-    ~ JWT?
-    ~ Is it serialized? (Java, PHP, .NET, Python)
+    - Cookie?
+    - Bearer Token?
+    - JWT?
+    - Is it serialized? (Java, PHP, .NET, Python)
     7. Are there useful comments?
     8. How does it handle special characters?
     9. Can you trigger any error messages?
-    ~ Send malicious characters to every parameter
+    - Send malicious characters to every parameter
     - Emojis
     - List of naughty strings (SecLists)
-    ~ Change parameters to array
+    - Change parameters to array
     EX: [http://example.com/search.php?q[]=test](http://example.com/search.php?q%5B%5D=test)
     10. What common features are present?
-    ~ Edit Profile
-    ~ Email/Messaging
-    ~ File Upload
-    ~ Shopping/Checkout
-    ~ Webhook
-    ~ Flight/Hotel Booking
-    ~ Banking
+    - Edit Profile
+    - Email/Messaging
+    - File Upload
+    - Shopping/Checkout
+    - Webhook
+    - Flight/Hotel Booking
+    - Banking
     11. How is a user identified?
     12. Are there multiple user roles?
     13. Is there an API?
@@ -61,25 +61,26 @@
     3. What parameters can be used?
 - Find Chaining Bugs
     1. Open Redirect?
+        
         - If yes:
-        ~ Can you redirect to different paths?
-        ~ Can you redirect to different subdomains?
-        ~ Can you redirect to different domains?
+            - Can you redirect to different paths?
+            - Can you redirect to different subdomains?
+            - Can you redirect to different domains?
     2. Reflected user controlled data?
         - If yes:
-        ~ HTMLi?
-        ~ XSS?
-        ~ SSTI?
+            - HTMLi?
+            - XSS?
+            - SSTI?
     3. CSRF?
-    If yes:
-    ~ What can we do with this endpoint?
-    ~ Is this endpoint an open redirect?
+    - If yes:
+        - What can we do with this endpoint?
+        - Is this endpoint an open redirect?
     4. Change HTTP Verb?
-    If yes:
-    ~ Does the endpoint work the same way when the verb is changed?
-    ~ Are any parameters rejected?
+    - If yes:
+        - Does the endpoint work the same way when the verb is changed?
+        - Are any parameters rejected?
 - VULN TESTING DETAILS
-    
+    ```
     Account Takeover - Burp (manual)
     Code Injection - Burp (scans/manual)
     HTML Injection - Custom Script (TBD) / Burp (scans/manual)
@@ -96,7 +97,7 @@
     HTTP Request Smuggling - Burp (scans)
     WebSockets - Burp (manual)
     HTTP Host Header - Burp (manual)
-    
+    ```
 - Recon
     reconftw
     
