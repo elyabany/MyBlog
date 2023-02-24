@@ -13,10 +13,9 @@ CYberSecurity & CTF Blog
   * [Easy](ctf-writups/hackthebox/easy/README.md)
     * [Support](ctf-writups/hackthebox/easy/support.md)
 * [☠ TryHackMe](ctf-writups/tryhackme/README.md)
-  * [THM : Annie](ctf-writups/tryhackme/thm-annie.md)
   * [THM : Surfer](ctf-writups/tryhackme/thm-surfer.md)
   * [THM : Alferd](ctf-writups/tryhackme/thm-alferd.md)
-  * [RazorBlack](ctf-writups/tryhackme/razorblack.md)
+  * [THM: RazorBlack](ctf-writups/tryhackme/razorblack.md)
 
 ## Programming
 
