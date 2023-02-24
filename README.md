@@ -3,8 +3,9 @@ CYberSecurity & CTF Blog
 # Table of contents
 
 * [💀 Information Security](<README (1).md>)
-  * [Qradar - Part 1](information-security/qradar-part-1.md)
-  
+  * [Qradar - Simple installation steps](information-security/qradar-part-1.md)
+  * [Qradar - Full installation steps ](information-security/Qradar-Part1: FULL steps.md)
+  * [Qradar - Health Check](information-security/Qradar-Part2.md)
 
 ## CTF writups&#x20;
 
