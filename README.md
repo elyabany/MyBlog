@@ -4,7 +4,7 @@ CYberSecurity & CTF Blog
 
 * [💀 Information Security](<README (1).md>)
   * [Qradar - Simple installation steps](information-security/qradar-part-1.md)
-  * [Qradar - Full installation steps ](information-security/Qradar-Part1: FULL steps.md)
+  * [Qradar - Full installation steps ](information-security/Qradar-Full-install.md)
   * [Qradar - Health Check](information-security/Qradar-Part2.md)
 
 ## CTF writups&#x20;
