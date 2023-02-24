@@ -54,4 +54,5 @@
 ---
 
 # :beetle: Bug Bounty 
+- [Methodology : simple](bugbounty/Methodology-simple.md)
 
