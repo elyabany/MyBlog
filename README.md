@@ -5,7 +5,9 @@
   * [Qradar - Simple installation steps](information-security/qradar-part-1.md)
   * [Qradar - Full installation steps ](information-security/Qradar-Full-install.md)
   * [Qradar - Health Check](information-security/Qradar-Part2.md)
-
+  * [Qradar - Deployment](information-security/Qradar-Part4.md)
+  * [Qradar - Troubleshooting Checklist](information-security/Qradar-Part3.md)
+  * [Qradar - Licenses](information-security/Qradar-Part5.md)
 # 🧟 CTF writups&#x20;
 
 * [🧟♂ HackTheBox](ctf-writups/hackthebox/README.md)
