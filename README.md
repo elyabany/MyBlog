@@ -11,7 +11,7 @@
   * [Qradar - Deployment](information-security/Qradar-Part4.md)
   * [Qradar - Troubleshooting Checklist](information-security/Qradar-Part3.md)
   * [Qradar - Licenses](information-security/Qradar-Part5.md)
-# 🧟 CTF writups&#x20;
+# 🧟 CTF writeups &#x20;
 
 * [🧟♂ HackTheBox](ctf-writups/hackthebox/README.md)
   * [Starting Points](ctf-writups/hackthebox/starting-points/README.md)
