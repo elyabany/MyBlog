@@ -13,7 +13,8 @@
   * [Qradar - Troubleshooting Checklist](information-security/Qradar-Part3.md)
   * [Qradar - Licenses](information-security/Qradar-Part5.md)
 ## Guardium
-* [Guardium - Intro](information-security/Guardium-Intro.md) 
+* [Guardium - Intro](information-security/Guardium-Intro.md)
+* [Guardium - Port Requirements](information-security/Guardium/Guardium-part1.md)
 
 ---
 
