@@ -1,12 +1,12 @@
 # Table of contents
 ---
 
-* [💀 Information Security](<README (1).md>)
+# [💀 Information Security](<README (1).md>)
   * [Qradar - Simple installation steps](information-security/qradar-part-1.md)
   * [Qradar - Full installation steps ](information-security/Qradar-Full-install.md)
   * [Qradar - Health Check](information-security/Qradar-Part2.md)
 
-# CTF writups&#x20;
+# 🧟 CTF writups&#x20;
 
 * [🧟♂ HackTheBox](ctf-writups/hackthebox/README.md)
   * [Starting Points](ctf-writups/hackthebox/starting-points/README.md)
@@ -18,7 +18,7 @@
   * [THM : Alferd](ctf-writups/tryhackme/thm-alferd.md)
   * [THM: RazorBlack](ctf-writups/tryhackme/razorblack.md)
 
-# Programming
+# :computer: Programming
 
 * [🐍 Python](programming/python/README.md)
   * [Python for CyberSecurity](programming/python/python-for-cybersecurity/README.md)
