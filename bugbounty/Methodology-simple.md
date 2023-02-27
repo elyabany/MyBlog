@@ -1,8 +1,8 @@
-- Ask yourself these questions for the application
-    1. What server is running the application?
-    2. Is there a WAF?
-    3. What additional libraries are used? Are there known exploits for these libraries? Custom JS Llbraries?
-    4. Is there Authentication?
+### Ask yourself these questions for the application
+   1. What server is running the application?
+   2.  Is there a WAF?
+   3.  What additional libraries are used? Are there known exploits for these libraries? Custom JS Llbraries?
+   4.  Is there Authentication?
         - Username
         - Email
         - OAuth
@@ -43,7 +43,7 @@
     18. Are WebSockets used?
     19. Is the source code publicly available?
     
-- Ask yourself these questions about the server hosting the application
+###  Ask yourself these questions about the server hosting the application
     1. What ports are open?
     2. What services are running on those ports?
     3. Is it hosted in the cloud?
@@ -55,11 +55,11 @@
     
     # 
     
-- Ask yourself these questions for EVERY page
+### Ask yourself these questions for EVERY page
     1. What part of CRUD?
     2. What HTTP request methods can be used? (GET/POST/PUT/DELETE/etc.)
     3. What parameters can be used?
-- Find Chaining Bugs
+### Find Chaining Bugs
     1. Open Redirect?
         
         - If yes:
@@ -79,7 +79,7 @@
     - If yes:
         - Does the endpoint work the same way when the verb is changed?
         - Are any parameters rejected?
-- VULN TESTING DETAILS
+###  VULN TESTING DETAILS
     ```
     Account Takeover - Burp (manual)
     Code Injection - Burp (scans/manual)
@@ -98,6 +98,6 @@
     WebSockets - Burp (manual)
     HTTP Host Header - Burp (manual)
     ```
-- Recon
+###  Recon
     reconftw
     
