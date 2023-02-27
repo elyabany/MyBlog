@@ -1,3 +1,4 @@
+ازاي تتحكم في اي services
 ### systemctl start|stop|restart|status <service name>
 
 - systemctl status hostcontext , hostcontext.service - hostcontext daemon
