@@ -1,3 +1,5 @@
+ديه Regex هتساعدك انك تعمل maping لل log source 
+
 1. Application="sample-application” 
 ```
 $ name= "(.*?)"\s 
