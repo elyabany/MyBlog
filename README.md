@@ -12,6 +12,10 @@
   * [Qradar - Deployment](information-security/Qradar-Part4.md)
   * [Qradar - Troubleshooting Checklist](information-security/Qradar-Part3.md)
   * [Qradar - Licenses](information-security/Qradar-Part5.md)
+  * [Qradar -  Services Restart](information-security/Qradar-services-restart.md)
+  * [Qradar - Support Tools](information-security/Qradar-support-tools.md)
+  * [Qradar - Regex-Part 1](information-security/Qradar-Regex-part1.md)
+  
 ## Guardium
 * [Guardium - Intro](information-security/Guardium-Intro.md)
 * [Guardium - Port Requirements](information-security/Guardium/Guardium-part1.md)
