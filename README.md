@@ -20,7 +20,7 @@
 * [Guardium - Intro](information-security/Guardium-Intro.md)
 * [Guardium - Port Requirements](information-security/Guardium/Guardium-part1.md)
 * [Guardium - Installation](information-security/Guardium/Guardium-Part2-Install.md)
-
+* [Guardium - License](information-security/Guardium/Guard-License.md) 
 ---
 
 # 🧟 CTF writeups &#x20;
