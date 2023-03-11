@@ -52,7 +52,7 @@
     * [L1: Set Alarm](programming/python/code-challenges/l1-set-alarm.md)
     * [Quarter of the year](programming/python/code-challenges/quarter-of-the-year.md)
 
-# :closed_lock_with_key: OWASP web 
+# :earth_americas: WebApp Pen-Testing
 
 * [Web](owasp/web.md)
   * [Injections](webgoat-exploit-and-mitigate/a3-injections/README.md)
