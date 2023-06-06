@@ -10,3 +10,5 @@
 
 **Add License →Security_Guardium_Data_Protection_for_Databases_Product→(Append)**
 ![image](https://user-images.githubusercontent.com/63524369/222966389-14809ca6-4b17-4411-a474-1bede9eae4af.png)
+
+## if wanna use vulnerability assessment you well need License 
